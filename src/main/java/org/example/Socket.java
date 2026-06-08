@@ -7,6 +7,7 @@ public class Socket { // name of bean created will be socket
     private String spower;
     private String price;
 
+    //these are getters and setters
     public String getSpower() {
         return spower;
     }

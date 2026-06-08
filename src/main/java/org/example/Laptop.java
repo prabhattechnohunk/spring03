@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
+
 @Service
 public class Laptop { // name of bean created will be laptop
    private  String brand ="mac";
