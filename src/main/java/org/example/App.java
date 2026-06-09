@@ -16,5 +16,6 @@ public class App
         Socket socket = (Socket) context.getBean("prabhatSocket");
         System.out.println(socket);
         System.out.println("Changes by Salim");
+       Hello.hello("Bijaya" ,101);
     }
 }
