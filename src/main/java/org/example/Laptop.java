@@ -66,5 +66,6 @@ public class Laptop { // name of bean created will be laptop
                 ", charger=" + charger +
                 ", socket=" + socket +
                 '}';
+
     }
 }
