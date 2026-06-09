@@ -15,9 +15,13 @@ public class App
         System.out.println(charger);
         Socket socket = (Socket) context.getBean("prabhatSocket");
         System.out.println(socket);
+
+        System.out.println("change made in pabitra branch");
+
         System.out.println("Changes by Salim");
        Hello.hello("Bijaya" ,101);
        //modification in prabhat-deveop2
         System.out.println("from new branch salim");
+        System.out.println("Tryme to see the change");
     }
 }
