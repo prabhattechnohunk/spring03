@@ -19,5 +19,7 @@ public class App
        Hello.hello("Bijaya" ,101);
        //modification in prabhat-deveop2
         System.out.println("Tryme to see the change");
+        int mul = Hello.multiply(10,20,30);
+        System.out.println(mul);
     }
 }
