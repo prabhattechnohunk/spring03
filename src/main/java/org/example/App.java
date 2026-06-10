@@ -18,5 +18,7 @@ public class App
         System.out.println("Changes by Salim");
        Hello.hello("Bijaya" ,101);
        //modification in prabhat-deveop2
+        int mul = Hello.multiply(10,20,30);
+        System.out.println(mul);
     }
 }
